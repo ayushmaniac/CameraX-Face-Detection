@@ -3,9 +3,9 @@ package com.facedetect.camerax.ui.base
 import android.os.Bundle
 import androidx.annotation.LayoutRes
 import androidx.appcompat.app.AppCompatActivity
-import com.ayush.finbox.di.component.ActivityComponent
+import com.facedetect.camerax.di.component.ActivityComponent
 import com.ayush.finbox.di.component.DaggerActivityComponent
-import com.ayush.finbox.di.module.ActivityModule
+import com.facedetect.camerax.di.module.ActivityModule
 import com.facedetect.camerax.FinboxApplication
 import javax.inject.Inject
 

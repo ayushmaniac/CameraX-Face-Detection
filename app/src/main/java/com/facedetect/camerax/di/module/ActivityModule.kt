@@ -1,4 +1,4 @@
-package com.ayush.finbox.di.module
+package com.facedetect.camerax.di.module
 
 import android.content.Context
 import androidx.camera.lifecycle.ProcessCameraProvider

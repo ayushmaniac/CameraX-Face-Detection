@@ -1,9 +1,9 @@
 package com.facedetect.camerax
 
 import android.app.Application
-import com.ayush.finbox.di.component.ApplicationComponent
+import com.facedetect.camerax.di.component.ApplicationComponent
 import com.ayush.finbox.di.component.DaggerApplicationComponent
-import com.ayush.finbox.di.module.ApplicationModule
+import com.facedetect.camerax.di.module.ApplicationModule
 
 class FinboxApplication : Application() {
 

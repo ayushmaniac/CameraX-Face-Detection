@@ -1,4 +1,4 @@
-package com.ayush.finbox.utils.viewutils
+package com.facedetect.camerax.utils.viewutils
 
 import android.graphics.*
 import android.media.Image

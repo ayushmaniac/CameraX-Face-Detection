@@ -4,8 +4,7 @@ import android.graphics.Bitmap
 import android.graphics.Rect
 import android.media.Image
 import android.util.Log
-import com.ayush.finbox.ui.main.face_detection.FaceContourGraphic
-import com.ayush.finbox.utils.viewutils.ImageUtils.toBitmap
+import com.facedetect.camerax.utils.viewutils.ImageUtils.toBitmap
 import com.facedetect.camerax.ui.main.manager.ImageManager
 import com.facedetect.camerax.utils.GraphicOverlay
 import com.facedetect.camerax.utils.analyzer.BaseImageAnalyzer

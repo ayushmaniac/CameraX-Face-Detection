@@ -1,4 +1,4 @@
-package com.ayush.finbox.ui.main.face_detection
+package com.facedetect.camerax.ui.main.face_detection
 
 import android.graphics.Canvas
 import android.graphics.Color

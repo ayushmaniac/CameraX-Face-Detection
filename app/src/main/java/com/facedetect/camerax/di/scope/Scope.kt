@@ -1,4 +1,4 @@
-package com.ayush.finbox.di.scope
+package com.facedetect.camerax.di.scope
 
 import javax.inject.Scope
 
