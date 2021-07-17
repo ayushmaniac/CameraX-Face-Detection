@@ -1,4 +1,4 @@
-package com.facedetect.camerax.ui.main
+package com.facedetect.camerax.ui.main.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

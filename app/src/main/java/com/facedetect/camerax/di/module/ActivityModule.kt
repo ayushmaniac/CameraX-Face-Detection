@@ -5,7 +5,7 @@ import androidx.camera.lifecycle.ProcessCameraProvider
 import androidx.lifecycle.ViewModelProvider
 import com.facedetect.camerax.data.ApplicationRepository
 import com.facedetect.camerax.ui.base.BaseActivity
-import com.facedetect.camerax.ui.main.MainViewModel
+import com.facedetect.camerax.ui.main.vm.MainViewModel
 import com.facedetect.camerax.utils.viewmodelutils.ViewModelProviderFactory
 import dagger.Module
 import dagger.Provides

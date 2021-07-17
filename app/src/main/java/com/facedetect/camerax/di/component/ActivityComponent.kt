@@ -2,7 +2,7 @@ package com.ayush.finbox.di.component
 
 import com.ayush.finbox.di.module.ActivityModule
 import com.ayush.finbox.di.scope.ActivityScope
-import com.facedetect.camerax.MainActivity
+import com.facedetect.camerax.ui.main.ui.MainActivity
 import dagger.Component
 
 @ActivityScope
