@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "955416960802",
+    "project_id": "finbox-facedetection",
+    "storage_bucket": "finbox-facedetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955416960802:android:ee7eda4cda926f6a350f7b",
+        "android_client_info": {
+          "package_name": "com.facedetect.camerax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955416960802-bfliibgp3j0ir4j7hajf2caga83itbgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.facedetect.camerax",
+            "certificate_hash": "1c9d392a3033d96d43fa5fbf66b99a958749ab5e"
+          }
+        },
+        {
+          "client_id": "955416960802-mp9k5ucji6haehjv1psqoa00qme3jup2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBiNApVbLuVsd7XvJvFWzmiBjcf2kPq_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955416960802-mp9k5ucji6haehjv1psqoa00qme3jup2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
